@@ -19,7 +19,7 @@
 
 <resources>    
     <!-- Color of the FOD view -->
-    <color name="config_fodColor">#00ffffff</color>
+    <color name="config_fodColor">#40E0D0</color>
 
      <!-- Whether to show biometric help only when failed -->
     <bool name="config_biometricHelpShowOnlyWhenFailed">true</bool>
